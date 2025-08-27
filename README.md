@@ -4,6 +4,7 @@ Este é um projeto de estudo que implementa um **CRUD (Create, Read, Update, Del
 
 - **Java Persistence API (JPA)**
 - **PostgreSQL**
+- **Apache Tomcat**
 - **NetBeans IDE**
 
 ---
